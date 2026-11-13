@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bussai2021
+- 👋 Hi, I’m @bussai-exe
 - 👀 I like online gaming and coding. I enjoy completing projects for my own use like minecraft mods and a start page for a web browser.
 - 🌱 I’m currently studying Computer Science.
 
